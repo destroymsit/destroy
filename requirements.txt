@@ -13,7 +13,7 @@ distlib==0.3.0
 docutils==0.15.2
 filelock==3.0.12
 Flask==1.1.2
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-RESTful==0.3.8
 future==0.16.0
 gcloud==0.18.3
